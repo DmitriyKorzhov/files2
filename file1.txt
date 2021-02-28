@@ -1,3 +1,4 @@
 print(Hello world)
     if x=ok
     print (eee)
+print(Эээээй)
